@@ -10,7 +10,7 @@ import Header from "./_components/Header";
 import { ReservationProvider } from "./_components/ReservationContext";
 
 export const metadata = {
-  title: "The Wild Oasis",
+  title: "Relax-Inn",
   // title: {
   //   template: "%s / The Wild Oasis",
   //   default: "Welcome / The Wild Oasis",

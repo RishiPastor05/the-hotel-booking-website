@@ -8,7 +8,7 @@ import ReservationReminder from "../_components/ReservationReminder";
 export const revalidate = 3600;
 
 export const metadata = {
-  title: "Cabins:The Wild Oasis",
+  title: "Cabins:Relax Inn",
 };
 
 export default function Page({ searchParams }) {

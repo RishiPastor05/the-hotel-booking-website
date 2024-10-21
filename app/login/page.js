@@ -1,7 +1,7 @@
 import SignInButton from "../_components/SignInButton";
 
 export const metadata = {
-  title: "Login:The Wild Oasis ",
+  title: "Login:Relax Inn",
 };
 
 export default function Page() {

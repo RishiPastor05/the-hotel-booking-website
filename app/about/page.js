@@ -6,7 +6,7 @@ import { getCabins } from "../_lib/data-service";
 export const revalidate = 86400;
 
 export const metadata = {
-  title: "About:The Wild Oasis",
+  title: "About:Relax Inn",
 };
 
 export default async function Page() {

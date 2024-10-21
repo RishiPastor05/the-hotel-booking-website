@@ -11,9 +11,7 @@ function Logo() {
         width="60"
         alt="The Wild Oasis logo"
       />
-      <span className="text-xl font-semibold text-primary-100">
-        The Wild Oasis
-      </span>
+      <span className="text-xl font-semibold text-primary-100">Relax Inn</span>
     </Link>
   );
 }

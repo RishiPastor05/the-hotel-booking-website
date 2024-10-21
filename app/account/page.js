@@ -1,7 +1,7 @@
 import { auth } from "../_lib/auth";
 
 export const metadata = {
-  title: "Account:The Wild Oasis",
+  title: "Account:Relax Inn",
 };
 export default async function Page() {
   const session = await auth();
